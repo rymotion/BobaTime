@@ -16,6 +16,7 @@ Designed for everyone and every device (I would recommend an OLED smartphone or 
 
 ## Disclaimers:
 Usage for educational purposes and non-profits: ✅
+
 Usage for commercial purposes: Ask first please cause I got bills to pay. [E-Mail]
 
 Other legal stuff here 
